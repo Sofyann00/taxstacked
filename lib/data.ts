@@ -126,7 +126,7 @@ export const products: Product[] = [
     name: "Tax Form Review",
     description: "Quick review and verification of your self-prepared tax forms before submission. Includes basic error checking and simple recommendations.",
     price: 200000,
-    image: "https://images.unsplash.com/photo-1554224155-8947e087e2eb?q=80&w=2070",
+    image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?q=80&w=2070",
     category: "Form Review"
   }
 ];

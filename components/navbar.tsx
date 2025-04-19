@@ -99,9 +99,9 @@ export function Navbar() {
         <img 
                 src="/app_icon.png" 
                 alt="Taxstacked Logo"
-                width={32}
-                height={32}
-                className="brightness-0 invert"
+                width={62}
+                height={62}
+                className="brightness-100"
               />
           <span className="text-xl font-bold">Taxstacked</span>
         </div>

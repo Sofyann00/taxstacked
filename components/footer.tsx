@@ -12,8 +12,8 @@ export function Footer() {
               <img 
                 src="/app_icon.png" 
                 alt="Taxstacked Logo"
-                width={32}
-                height={32}
+                width={62}
+                height={62}
                 className="brightness-100"
               />
               <span className="text-xl font-bold text-gray-900">Taxstacked</span>
